@@ -323,7 +323,7 @@ namespace card_jigsaw_puzzle
             Console.ResetColor();
             Console.WriteLine("Each card has it's own power denoted by a number (1-5).");
             Console.WriteLine("You will be given 5 card at start of Game ");
-            Console.WriteLine("Same power card can be  comred as follows :");
+            Console.WriteLine("Same power card can be  compared as follows :");
             Console.ForegroundColor = ConsoleColor.Black;
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.Write("Blue (Ice) ");
